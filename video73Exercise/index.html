@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .container {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            gap: 20px;
+
+        }
+
+        .container .card {
+            padding: 10px;
+            display: flex;
+            flex-direction: row;
+            justify-content: space-evenly;
+            align-items: center;
+            gap: 10px;
+            background-color: rgb(65, 66, 66);
+        }
+
+        .container .card img {
+            width: 200px;
+            height: 120px;
+            border-radius: 10px;
+            position: relative;
+            z-index: 10;
+        }
+
+        .container .card .details {
+            display: flex;
+            flex-direction: row;
+            justify-content: start;
+            align-items: center;
+            gap: 10px;
+        }
+
+        .container .thumb {
+            position: relative;
+        }
+
+        .container .thumb .duration{
+            display: inline-block;
+            background-color: black;
+            color: white;
+            padding: 2px 5px;
+            border-radius: 5px;
+            font-weight: bold;
+            position: absolute;
+            bottom: 10px;
+            right: 5px;
+            z-index: 20;
+        }
+
+        .container .card .text {
+            display: flex;
+            height: 100%;
+            flex-direction: column;
+            justify-content: flex-start;
+            align-items: flex-start;
+            color: white;
+        }
+
+        .container .card li {
+            list-style: disc;
+            list-style-position: inside;
+            padding-left: 2px;
+        }
+
+        .container .details :nth-child(1) {
+            display: ruby-text;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+    
+
+        
+    </div>
+
+
+
+
+    <script src="script.js"></script>
+</body>
+
+</html>
