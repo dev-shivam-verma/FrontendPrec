@@ -16,6 +16,19 @@ Each folder represents a **concept**, **component**, or **small project** I'm cu
 
 ---
 
+## X (twitter) ui clone
+![Screenshot from 2025-06-07 23-01-57](https://github.com/user-attachments/assets/61a9bb4c-94bb-4e51-9b98-ac2280112ea3)
+
+
+![screen-captureonline-video-cutter com1-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/7f05605c-351e-4310-9dd5-37e79d32e328)
+
+
+https://github.com/user-attachments/assets/2eb38c7f-99f9-4613-801a-b21dc6def722
+
+
+
+
+
 ## 🚀 Goals
 
 - Strengthen core **frontend fundamentals**
