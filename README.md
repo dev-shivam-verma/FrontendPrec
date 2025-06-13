@@ -16,7 +16,7 @@ Each folder represents a **concept**, **component**, or **small project** I'm cu
 
 ---
 
-## X (twitter) ui clone
+## X (Twitter) ui clone
 ![Screenshot from 2025-06-07 23-01-57](https://github.com/user-attachments/assets/61a9bb4c-94bb-4e51-9b98-ac2280112ea3)
 
 
@@ -26,6 +26,8 @@ Each folder represents a **concept**, **component**, or **small project** I'm cu
 https://github.com/user-attachments/assets/2eb38c7f-99f9-4613-801a-b21dc6def722
 
 
+## list rendering react
+![react_list_rendering-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/73a59656-af9f-4877-8c93-f542b7fa46b7)
 
 
 
